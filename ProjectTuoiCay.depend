@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650089982 source:d:\projecttuoicay\main.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<unistd.h>
+	<windows.h>
+	<stdio.h>
+	<thread>
+	<cmath>
+
